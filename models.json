@@ -1,0 +1,11 @@
+{
+	"models": [{
+			"id": "1",
+			"modelUrl": "https://github.com/palerikm/3DModels/blob/main/Shoe_Merrell_Right.usdz"
+		},
+		{
+			"id": "2",
+			"modelUrl": "https://github.com/palerikm/3DModels/blob/main/toy3.usdz"
+		}
+	]
+}
