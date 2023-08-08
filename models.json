@@ -4,10 +4,12 @@
 		},
 		{
 			"id": 1111,
-			"modelUrl": "https://github.com/palerikm/3DModels/blob/main/Shoe_Merrell_Right.usdz"
+			"title": "Shoe Merrel Right",
+			"modelUrl": "https://github.com/palerikm/3DModels/raw/main/Shoe_Merrell_Right.usdz"
 		},
 		{
 			"id": 1112,
+			"title": "toy3",
 			"modelUrl": "https://github.com/palerikm/3DModels/blob/main/toy3.usdz"
 		}
 	]
